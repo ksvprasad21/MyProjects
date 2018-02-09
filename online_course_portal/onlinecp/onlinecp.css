@@ -1,0 +1,26 @@
+.imagee
+{
+    background:url(https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+    background-size: cover;
+    
+}
+#banner_image{
+    
+     padding-bottom: 75px;
+     padding-bottom: 50px;
+     text-align: center;
+     color: #f8f8f8;
+     background: url(https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg?h=350&auto=compress&cs=tinysrgb) no-repeat center;
+     background-size: cover; 
+}
+#banner_content{
+    position:relative;
+    padding-top: 4%;
+    padding-bottom: 6%;
+    margin-top: 20%;
+    margin-left: 20%;
+    margin-bottom: 10%;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 660px;
+}
+
